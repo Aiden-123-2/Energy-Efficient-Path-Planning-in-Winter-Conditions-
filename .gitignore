@@ -1,0 +1,33 @@
+# Output directories
+submission_outputs_10seeds/
+ppo_checkpoints/
+ppo_baseline_checkpoints/
+ppo_sens_*/
+sensitivity_results/
+
+# Model files
+*.zip
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+_tmp_*.pkl
