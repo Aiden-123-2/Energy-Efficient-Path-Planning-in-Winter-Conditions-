@@ -142,4 +142,4 @@ All outputs are saved under `submission_outputs_10seeds/`:
 
 If you use this code in your research, please cite:
 
-> Yu, S.-J. (2025). Energy-Efficient Path Planning in Winter Conditions: A Comparative Study of Traditional Baseline, Q-learning, and Proximal Policy Optimization in a Grid World Environment. *Convergence Journal*.
+> Yu, Sheng-Jui (2025). Energy-Efficient Path Planning in Winter Conditions: A Comparative Study of Traditional Baseline, Q-learning, and Proximal Policy Optimization in a Grid World Environment. *Convergence Journal*.
